@@ -8,4 +8,4 @@ node -e "console.log(\"    -- $author\");" >> wisdom.txt
 counter="$((`cat wisdomCounter.txt` + 1))"
 echo "$counter" > wisdomCounter.txt
 git add .
-git commit -q -m "write bit of wisdom #$(counter)"
+git commit -m "write bit of wisdom #$(counter)"
