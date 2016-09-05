@@ -1,2 +1,2 @@
-Beautiful accidents can happen, but accident is not the basis for design excellence. Purposeful discovery followed by focused, skillful conceptualization and execution is the basis for design excellence.  
-    -- Andy Rutledge
+We have to learn to see technical devices and software as others see them. Feeling a sense of pride in getting a device to do what we want doesn’t mean we’re clever, it means the design was wrong.  
+    -- Jeremy Allison
