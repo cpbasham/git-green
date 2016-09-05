@@ -1,2 +1,2 @@
-We have to learn to see technical devices and software as others see them. Feeling a sense of pride in getting a device to do what we want doesn’t mean we’re clever, it means the design was wrong.  
-    -- Jeremy Allison
+I’m sure there are fine artists out there who keep the audience in mind when they work. But it’s not the accepted trajectory of the profession. Conversely, it’s very clear in design that what we do needs to be seen an understood by an audience.  
+    -- Stefan Sagmeister
