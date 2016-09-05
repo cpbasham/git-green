@@ -9,3 +9,4 @@ counter="$((`cat wisdomCounter.txt` + 1))"
 echo "$counter" > wisdomCounter.txt
 git add .
 git commit -q -m "write bit of wisdom #$counter"
+git push -q
